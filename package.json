@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "test": "jest",
+    "start": "node ./api/server.js"
+  },
   "devDependencies": {
     "eslint": "^8.10.0",
     "eslint-config-airbnb-base": "^15.0.0",
